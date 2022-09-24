@@ -1,2 +1,2 @@
-# Hacks
-1
+Hazard Nuker and more will come
+DeathRat and more!
