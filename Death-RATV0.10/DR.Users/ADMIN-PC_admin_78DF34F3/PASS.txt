@@ -1,0 +1,4 @@
+USR: admin
+PWD: admin
+URL: http://no-ip.com
+
